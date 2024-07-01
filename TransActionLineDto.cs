@@ -8,7 +8,7 @@ namespace ExspenseTags
 {
 	public class TransActionLineDto
 	{
-		public DateOnly TransactionDate {  get; set; }
+		public DateOnly TransactionDate { get; set; }
 		public string BankCategory { get; set; }
 
 		public string BankSubCategory { get; set; }
